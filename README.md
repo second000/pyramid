@@ -11,3 +11,5 @@ Write a function that asks the user to enter an English letter and prints out a 
     A B C D E D C B A 
  
 *****
+
+This pyramid unfolds from the letter A, but you can draw from the letter E.
